@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uwo.ca/index.html)
+
 **Data Science Undergraduate** \
 [**Western University**](https://www.uwo.ca/index.html)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
@@ -88,6 +88,5 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 <div>
 <a href = "mailto: aahma232@uwo.ca"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/azlan-ahmad-/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
