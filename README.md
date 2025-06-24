@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Top: GitHub Streak -->
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlan-A1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlan-A1&theme=onedark" />
 </a>
 
 <br><br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Azlan-A1&show_icons=true&theme=onedark&hide_rank=true&hide=stars" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlan-A1&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlan-A1&hide=ShaderLab,HLSL&layout=compact&theme=onedark" />
     </td>
   </tr>
 </table>
