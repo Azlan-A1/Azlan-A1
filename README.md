@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Azlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azlan-A1)](https://github.com/Azlan-A1/github-readme-stats)
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="" />
