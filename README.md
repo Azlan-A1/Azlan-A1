@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<!-- Top: GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlan-A1&theme=tokyonight" />
+</a>
+
+<br><br>
+
+<!-- Bottom: GitHub Stats & Languages Side-by-Side -->
 <table>
   <tr>
     <td>
