@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Azlan-A1&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Azlan-A1&show_icons=true&theme=onedark&hide_rank=true&hide=stars" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlan-A1&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight" />
