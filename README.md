@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="![Azlan-A1's Stats]" />
+ <img width=45% align="center" src="" />
 </div>
 
 
