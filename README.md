@@ -21,15 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center">"One Day, or Day One "</h3>
 
 
-<br>
 
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="" />
-</div>
 
-
-<br>
 
 ## Language and Tools
 
