@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">"One Day, or Day One "</h3>
 
-<h4 align = 'center'>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azlan-A1&theme=tokyonight)](https://git.io/streak-stats)
 <br></br>
 ![Azlan-A1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azlan-A1&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azlan-A1&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/Azlan-A1/github-readme-stats)
 
-</h4>
+
 
 
 
