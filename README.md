@@ -28,8 +28,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlan-A1&theme=onedark" />
 </a>
 
-<br><br>
-
 <!-- Bottom: GitHub Stats & Languages Side-by-Side -->
 <table>
   <tr>
